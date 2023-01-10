@@ -1,8 +1,7 @@
 #### 🌱 I’m currently learning Unity, C# and Python
 
 
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
 
 <!--
 **TA-PP/TA-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
