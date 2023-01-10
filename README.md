@@ -10,12 +10,14 @@
  
  ### ✏️ Studying
  
+ <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
+ 
  ### 💪 Problem Solving
  
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=kgrewd)](https://solved.ac/kgrewd)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TA-PP&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TA-PP&show_icons=true&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TA-PP&layout=compact&theme=dark)](https://github.com/TA-PP/github-readme-stats)
  
 </div>
