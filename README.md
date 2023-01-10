@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'mr&SeungWooSong=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20SeungWooSong=90)
 
 #### 🌱 I’m currently learning Unity, C# and Python
 
