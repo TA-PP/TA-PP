@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning Unity, C# and Python
+#### 🌱 I’m currently learning Unity, C# and Python
 
 <!--
 **TA-PP/TA-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
