@@ -18,11 +18,11 @@
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=kgrewd)](https://solved.ac/kgrewd)
  
  ### 📜 My Hist
+ 
+</div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TA-PP&show_icons=true&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TA-PP&layout=compact&theme=dark)](https://github.com/TA-PP/github-readme-stats)
- 
-</div>
 
 <!--
 **TA-PP/TA-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
