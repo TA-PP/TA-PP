@@ -8,16 +8,19 @@
  ### ⛷️ Skills
 
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
- 
+ <br>
+ <br>
  ### ✏️ Studying
  
  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
- 
+ <br>
+ <br>
  ### 💪 Problem Solving
  
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=kgrewd)](https://solved.ac/kgrewd)
- 
+ <br>
+ <br>
  ### 📜 My Hist
  
 </div>
