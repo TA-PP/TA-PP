@@ -6,7 +6,9 @@
  <br/>
  <br/>
  ### 🐂 Introduction
- Hello I'm double majoring Civil Engineering and Software. Now i'm interested at application and game development. So i'm studying C# and Unity. 
+ Hello I'm double majoring Civil Engineering and Software.<br/>
+ Now i'm interested at application and game development.<br/> 
+ So i'm studying C# and Unity. 
  ### ⛷️ Skills
 
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
