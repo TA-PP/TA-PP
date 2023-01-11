@@ -6,7 +6,7 @@
  <br/>
  <br/>
  ### 🐂 Introduction
- Hello I'm double majoring Civil Engineering and Software.<br/>
+ Hello, I'm double majoring Civil Engineering and Software.<br/>
  Now i'm interested at application and game development.<br/> 
  So i'm studying C# and Unity. 
  ### ⛷️ Skills
