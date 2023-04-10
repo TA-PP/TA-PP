@@ -8,7 +8,7 @@
 ### 🐂 Introduction
 
  As a civil & software engineering student interested in application and game development, 
- my main focus has been becoming proficient in the C# / Unity languages.
+ my main focus has been becoming proficient in the Android.
  
 ### ⛷️ Skills
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
