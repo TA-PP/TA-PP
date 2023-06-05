@@ -7,7 +7,7 @@
  <br/>
 ### 🐂 Introduction
 
- As a Civil Engineering & Department of Computer Science student interested in application development, 
+ As a Civil Engineering & Department of Computer Science student, I'm interested in application development, 
  my main focus has been becoming proficient in the Android.
  
 ### ⛷️ Skills
