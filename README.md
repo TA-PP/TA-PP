@@ -7,7 +7,7 @@
  <br/>
 ### 🐂 Introduction
 
- As a civil & software engineering student interested in application and game development, 
+ As a civil & software engineering student interested in application development, 
  my main focus has been becoming proficient in the Android.
  
 ### ⛷️ Skills
