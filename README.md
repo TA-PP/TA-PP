@@ -7,7 +7,7 @@
  <br/>
 ### 🐂 Introduction
 
- As a Civil Engineering & Department of Computer Science student, I've mostly done Android development, but as I'm starting to get interested in machine learning, I'd like to study porting models into hardware like cell phones or model compression.
+ As a Department of Civil Engineering & Computer Science student, I've mostly done Android development, but as I'm starting to get interested in machine learning, I'd like to study On-device AI, AutoML.
  
 ### ⛷️ Skills
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
